@@ -13,19 +13,20 @@ Built as part of a research internship at IISc, the system allows users to uploa
 
 ## 📁 Project Structure
 ```
-/app
-├── main.py                 # App entry point
-├── routes.py               # Flask routes and views
-├── static/                 # Static assets (CSS, JS)
-└── templates/              # HTML templates
+bottle-ai-dashboard/
+├── app/
+│   ├── main.py
+│   ├── routes.py
+│   ├── templates/
+│   │   ├── index.html
+│   │   └── result.html
+│   ├── static/
+├── models/
+│   └── feature_extractor.py
+├── utils/
+│   └── helper_functions.py
+├── README.md
 
-/models
-└── feature_extractor.py    # Core image processing logic (OpenCV, edge detection)
-
-/utils
-└── helper_functions.py     # Utility and support functions
-
-README.md
 requirements.txt
 ```
 
