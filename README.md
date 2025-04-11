@@ -74,8 +74,3 @@ Pull requests are welcome. Feel free to open issues for suggestions and improvem
 
 ## 📄 License
 MIT
-```
-
----
-
-Let me know if you'd like to tweak the tone or add a live demo link. Once you upload this to your GitHub repo, you're 100% ready to submit it as your **MLH Code Sample**!
